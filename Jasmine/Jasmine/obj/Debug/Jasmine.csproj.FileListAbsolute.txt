@@ -1,0 +1,5 @@
+E:\Formacion\JASMINE\Jasmine\Jasmine\bin\Jasmine.dll.config
+E:\Formacion\JASMINE\Jasmine\Jasmine\bin\Jasmine.dll
+E:\Formacion\JASMINE\Jasmine\Jasmine\bin\Jasmine.pdb
+E:\Formacion\JASMINE\Jasmine\Jasmine\obj\Debug\Jasmine.dll
+E:\Formacion\JASMINE\Jasmine\Jasmine\obj\Debug\Jasmine.pdb

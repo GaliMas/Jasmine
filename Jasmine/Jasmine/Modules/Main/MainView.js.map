@@ -1,0 +1,1 @@
+{"version":3,"file":"MainView.js","sourceRoot":"","sources":["MainView.ts"],"names":["MainView","MainView.constructor","MainView.render"],"mappings":";IAAA;QAEIA,kBAAYA,KAAKA;YACbC,IAAIA,CAACA,GAAGA,GAAGA,KAAKA,CAACA;QACrBA,CAACA;QAEDD,yBAAMA,GAANA;YACIE,IAAIA,CAACA,GAAGA,CAACA,SAASA,GAAGA,cAAcA,CAACA;QACxCA,CAACA;QACLF,eAACA;IAADA,CAACA,AATD,IASC;IATY,gBAAQ,WASpB,CAAA"}
